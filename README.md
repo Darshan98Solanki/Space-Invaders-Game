@@ -10,7 +10,7 @@ A modern twist on the classic **Space Invaders**, this game is built with Python
 ## 🚀 Features
 
 - **Classic Gameplay**: Enjoy the nostalgic mechanics of the original Space Invaders.
-- **Dynamic Difficulty**: Increasing challenges as you progress.
+- **Dynamic Difficulty**: Increasing alien invaders as you progress.
 - **Smooth Controls**: Responsive and intuitive spaceship movement.
 - **Exciting Visuals**: Bright, retro-style graphics.
 - **Score System**: Keep track of your performance and aim for the top!
@@ -79,7 +79,11 @@ Follow these steps to run the game locally:
 
 ## 📸 Screenshots
 
-*Coming soon!* Showcase your best moments or features of the game.
+![image](https://github.com/user-attachments/assets/3d4617df-bdcc-4227-8c35-fc8e2a61a678)
+
+![image](https://github.com/user-attachments/assets/f6986f51-c3ef-42af-9657-35d60f3a0998)
+
+![image](https://github.com/user-attachments/assets/23580427-4cd7-46ea-a110-8f16fbded0f1)
 
 ---
 
@@ -95,12 +99,6 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🌟 Acknowledgements
 
 - Inspired by the timeless **Space Invaders** arcade game.
@@ -112,12 +110,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - Add power-ups and bonus levels.
 - Implement multiplayer mode.
-- Enhance the graphics and sound effects.
 
 ---
 
 Enjoy the game and don’t forget to ⭐ the repo if you like it!
 
 --- 
-
-Let me know if you’d like to add specific details or screenshots!
